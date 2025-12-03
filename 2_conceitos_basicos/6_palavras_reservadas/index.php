@@ -1,18 +1,13 @@
 <?php
 
-// Palavras Reservadas
+  // function echo() {
+  //   return true;
+  // }
 
-/* function echo() {
+  // function while() {
+  //   return true;
+  // }
+
+  function whileNew() {
     return true;
-} */
-
-/* function while(){
-    return true;
-} */
-
-function whileNew() {
-    return true;
-}
-
-
-?>
+  }

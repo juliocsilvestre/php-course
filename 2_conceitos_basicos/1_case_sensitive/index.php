@@ -1,13 +1,14 @@
 <?php
 
-// Não é case sensitive
-echo "Olá, Mundo! <br>";
-EChO "Olá, mundo v2 <br>";
-ECHO 'OJUARA <br>';
+  // Não é case sensitive
+  echo "teste <br>";
+  eChO "testando 2 <br>";
+  ECHO "testando 3 <br>";
 
+  // É case sensitive
+  $nome = "Matheus";
+  $NOME = "Teste";
 
-//É case sensitive
-$nome = "Julio";
-echo $nome;
-
-?>
+  echo $nome;
+  echo "<br>";
+  echo $NOME;

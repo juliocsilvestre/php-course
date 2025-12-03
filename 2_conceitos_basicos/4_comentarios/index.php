@@ -1,14 +1,12 @@
 <?php
 
-// este é um comentario
+ // Este é um comentário
+ echo "Teste comentário"; // Isso aqui imprime algo na tela
 
-# este também é um comentario
+ # Outro tipo de comentário
 
-/*
-    este é um comentario
-    de múltiplas linhas
+ /*
+  Comentário
+  multi
+  linha
 */
-
-echo "Olá, Mundo! <br>"; // comentário após uma instrução
-
-?>

@@ -1,11 +1,17 @@
 <?php
 
-echo                                "Olá, Mundo!";
-echo "Olá,      Mundo! <br>"                                ;
-echo "Olá, Mundo!            <br>"  ;
-echo 
-"quebra de linha <br>"
-;
+ echo                                 "testando espaço em branco <br>";
+ echo "testando espaço <br>"             ;
+ echo
+ "quebra de linha <br>"
+ ;
+ echo "quebra de linha <br>"
+ ;
 
+ echo "quebra de linha <br>"
+ ;
 
-?>
+ echo
+ "quebra de 
+ linha <br>"
+ ;

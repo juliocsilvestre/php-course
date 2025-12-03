@@ -1,10 +1,8 @@
 <?php
 
-echo "Uma linha <br>";
-echo "Outra linha <br>";
+  echo "Uma linha <br>";
+  echo "Outra de uma linha  <br>";
 
-if (true) {
-    echo "Dentro de um if <br>";
-}
-
-?>
+  if(5 > 2) {
+    echo "Dentro do if";
+  }
