@@ -17,7 +17,7 @@
   print_r($arrayUrl2);
   echo "<br>";
 
-  $url3 = "http://www.horadecodar.com.br/usuarios/matheusbattisti?id=12&nome=Matheus";
+  $url3 = "http://www.horadecodar.com.br/usuarios/Juliobattisti?id=12&nome=Julio";
 
   $arrayUrl3 = parse_url($url3);
 

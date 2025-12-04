@@ -8,6 +8,6 @@
 
   echo count($arr2) . "<br>";
 
-  $arr3 = ['nome' => 'Matheus', 'idade' => 29, 'profissao' => 'Programador'];
+  $arr3 = ['nome' => 'Julio', 'idade' => 29, 'profissao' => 'Programador'];
   
   echo count($arr3) . "<br>";

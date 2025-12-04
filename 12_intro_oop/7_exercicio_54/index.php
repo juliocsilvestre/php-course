@@ -11,14 +11,14 @@
 
   }
 
-  $matheus = new Pessoa;
+  $Julio = new Pessoa;
 
-  $matheus->nome = "Matheus";
-  $matheus->idade = 29;
+  $Julio->nome = "Julio";
+  $Julio->idade = 29;
 
-  echo "O nome dele é $matheus->nome e tem $matheus->idade anos <br>";
+  echo "O nome dele é $Julio->nome e tem $Julio->idade anos <br>";
 
-  $matheus->andar(20);
+  $Julio->andar(20);
 
   $joaquim = new Pessoa;
 

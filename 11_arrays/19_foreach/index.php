@@ -1,7 +1,7 @@
 <?php
 
-  $matheus = [
-    'nome' => 'Matheus',
+  $Julio = [
+    'nome' => 'Julio',
     'idade' => 29,
     'profissao' => 'Programador'
   ];
@@ -12,7 +12,7 @@
     'profissao' => 'Eng. Civil'
   ];
 
-  foreach($matheus as $carac => $value) {
+  foreach($Julio as $carac => $value) {
 
     echo "$carac => $value <br>";
 

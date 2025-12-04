@@ -1,7 +1,7 @@
 <?php
 
   $arr = [
-    'Matheus' => 29,
+    'Julio' => 29,
     'Pedro' => 18,
     'Joaquim' => 14,
     'Maria' => 12
@@ -13,7 +13,7 @@
   echo "<br>";
 
   $arr2 = [
-    'Matheus' => 12,
+    'Julio' => 12,
     'Pedro' => 44,
     'Joaquim' => 14,
     'Maria' => 32

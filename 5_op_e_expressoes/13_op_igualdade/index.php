@@ -20,7 +20,7 @@
     echo "Comparação verdadeira 4<br>";
   }
 
-  $nome = "Matheus";
+  $nome = "Julio";
   $nomeDoSistema = "João";
 
   if($nome == $nomeDoSistema) {

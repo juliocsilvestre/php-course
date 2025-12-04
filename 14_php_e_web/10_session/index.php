@@ -4,7 +4,7 @@
 
   // print_r($_SESSION);
 
-  $_SESSION['nome'] = "Matheus";
+  $_SESSION['nome'] = "Julio";
 
 ?>
 <!DOCTYPE html>

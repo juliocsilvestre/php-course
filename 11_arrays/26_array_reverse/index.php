@@ -9,7 +9,7 @@
   print_r($arrRev);
   echo "<br>";
 
-  $arr2 = ["Matheus", 12, true, [1, 2]];
+  $arr2 = ["Julio", 12, true, [1, 2]];
 
   $arr2Rev = array_reverse($arr2);
 

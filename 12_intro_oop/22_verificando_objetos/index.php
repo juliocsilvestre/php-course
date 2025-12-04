@@ -8,11 +8,11 @@
 
   }
 
-  $matheus = new Humano;
+  $Julio = new Humano;
 
   $teste = 10;
 
-  if(is_object($matheus)) {
+  if(is_object($Julio)) {
     echo "É um objeto <br>";
   } else {
     echo "Não é um objeto <br>";
@@ -24,15 +24,15 @@
     echo "Não é um objeto <br>";
   }
 
-  echo get_class($matheus) . "<br>";
+  echo get_class($Julio) . "<br>";
 
-  if(method_exists($matheus, "falar")) {
+  if(method_exists($Julio, "falar")) {
     echo "Método existe <br>";
   } else {
     echo "Método não existe <br>";
   }
 
-  if(method_exists($matheus, "asd")) {
+  if(method_exists($Julio, "asd")) {
     echo "Método existe <br>";
   } else {
     echo "Método não existe <br>";

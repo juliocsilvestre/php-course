@@ -1,6 +1,6 @@
 <?php
 
-  $str1 = "    Matheus  ";
+  $str1 = "    Julio  ";
 
   echo "Esta é a string 1: $str1. <br>";
 

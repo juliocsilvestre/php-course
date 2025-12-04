@@ -2,7 +2,7 @@
 
   $pessoa = new class() {
 
-    public $nome = "Matheus";
+    public $nome = "Julio";
 
     public function dizerNome() {
       echo "Olá meu nome é $this->nome <br>";

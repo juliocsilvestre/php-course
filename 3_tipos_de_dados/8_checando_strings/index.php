@@ -1,6 +1,6 @@
 <?php
 
-  $str = "Matheus";
+  $str = "Julio";
   $num = 12;
 
   if(is_string($str)) {

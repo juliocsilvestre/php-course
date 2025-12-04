@@ -32,13 +32,13 @@
 
   echo $carro->rodas . "<br>";
 
-  $matheus = new Mecanico;
+  $Julio = new Mecanico;
 
-  $matheus->alterarRodas($carro);
+  $Julio->alterarRodas($carro);
 
   echo $carro->rodas . "<br>";
 
-  // $matheus->colocarPelicula($carro, "G20");
+  // $Julio->colocarPelicula($carro, "G20");
 
   echo $carro->getVidro() . "<br>";
 

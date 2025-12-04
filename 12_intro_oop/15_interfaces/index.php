@@ -2,7 +2,7 @@
 
   interface Caracteristicas {
 
-    const nome = "Matheus";
+    const nome = "Julio";
 
     public function falar();
 
@@ -24,8 +24,8 @@
 
   }
 
-  $matheus = new Humano;
+  $Julio = new Humano;
 
-  $matheus->falar();
+  $Julio->falar();
 
-  $matheus->dizerNome();
+  $Julio->dizerNome();

@@ -6,7 +6,7 @@
   echo "<br>";
   echo $a[0];
 
-  $arr = ["Matheus", 1005, true];
+  $arr = ["Julio", 1005, true];
 
   echo "<br>";
   print_r($arr);

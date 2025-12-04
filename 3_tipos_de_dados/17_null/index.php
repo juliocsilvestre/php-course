@@ -8,7 +8,7 @@
     echo "O valor é nulo!";
   }
 
-  $nome = "Matheus";
+  $nome = "Julio";
 
   if(is_null($nome)) {
     echo "O valor é nulo!";

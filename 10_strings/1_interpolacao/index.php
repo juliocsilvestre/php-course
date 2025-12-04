@@ -2,7 +2,7 @@
 
   // O ideal é se manter apenas com uma das sintaxes
 
-  $nome = "Matheus";
+  $nome = "Julio";
   $idade = 29;
   $profissao = "Programador";
 

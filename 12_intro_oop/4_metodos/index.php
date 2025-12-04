@@ -12,15 +12,15 @@
 
   }
 
-  $matheus = new Pessoa;
+  $Julio = new Pessoa;
 
-  $matheus->falar();
-  $matheus->falar();
+  $Julio->falar();
+  $Julio->falar();
 
   $joao = new Pessoa;
 
   $joao->falar();
 
-  $matheus->somar(2, 2);
+  $Julio->somar(2, 2);
 
   $joao->somar(10, 12);

@@ -8,12 +8,12 @@
 
   }
 
-  $matheus = new Pessoa();
+  $Julio = new Pessoa();
 
-  $matheus->nome = "Matheus";
+  $Julio->nome = "Julio";
 
-  echo $matheus->nome;
+  echo $Julio->nome;
 
   echo "<br>";
 
-  $matheus->falar();
+  $Julio->falar();

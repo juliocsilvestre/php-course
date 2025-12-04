@@ -40,10 +40,10 @@
   $ze->acessaGritar();
   $ze->acessaFalarBaixinho();
 
-  $matheus = new Programador;
+  $Julio = new Programador;
 
-  echo $matheus->idade . "<br>";
+  echo $Julio->idade . "<br>";
 
-  $matheus->falar();
-  $matheus->acessaGritar();
-  $matheus->acessaFalarBaixinhoProgramador();
+  $Julio->falar();
+  $Julio->acessaGritar();
+  $Julio->acessaFalarBaixinhoProgramador();

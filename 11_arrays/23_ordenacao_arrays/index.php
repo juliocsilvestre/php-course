@@ -16,7 +16,7 @@
   echo "<br>";
 
 
-  $nomes = ["Maria", "Aaron", "Joao", "José", "Matheus"];
+  $nomes = ["Maria", "Aaron", "Joao", "José", "Julio"];
 
   sort($nomes);
 

@@ -1,6 +1,6 @@
 <?php
 
-  setcookie("nome", "Matheus", time() + 3600);
+  setcookie("nome", "Julio", time() + 3600);
 
   if(isset($_COOKIE['nome'])) {
 
