@@ -10,10 +10,13 @@
   $a = 5;
   $b = 2;
   $c = 10;
+  $d = 10;
 
   echo $a + $b / $c;
   echo "<br>";
   echo $c + $b / $a;
+  echo "<br>";
+   echo $c + $b + $d / $a;
   echo "<br>";
 
   $d = $a * $b * $c;
