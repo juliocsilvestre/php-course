@@ -5,9 +5,14 @@
     public $rodas = 4;
     private $vidro = "Sem película";
     protected $portas = 4;
+    public $som = "Básico";
 
     public function getVidro() {
       return $this->vidro;
+    }
+
+    public function getSom() {
+      return $this->som;
     }
 
     public function getPortas() {
