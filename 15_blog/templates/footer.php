@@ -1,5 +1,5 @@
 <footer>
-  <p>Hora de Codar &copy; 2020</p>
+  <p>Julio Silvestre Dev &copy; 2025</p>
 </footer>
 </body>
 </html>

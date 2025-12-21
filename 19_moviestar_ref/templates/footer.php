@@ -19,7 +19,7 @@
                 <li><a href="#">Entrar / Registrar</a></li>
             </ul>
         </div>
-        <p>&copy; 2020 Hora de Codar</p>
+        <p>&copy; 2025 Julio Silvestre Dev</p>
     </footer>
     <!-- BOOTSTRAP JS -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
